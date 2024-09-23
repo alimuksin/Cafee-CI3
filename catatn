@@ -1,11 +1,1 @@
-ID Merchant	
-G411378679
-Client Key	
-SB-Mid-client-vCrWvNohzR4A5MpZ
-Server Key	
-SB-Mid-server-tkXuv_1mTBmq2Co9bGY0xdRq
 
-
-<form id="payment-form" method="post" action="'.site_url('snap/finish').'">
-
-https://cb00-103-151-226-50.ngrok-free.app/cafe/tripay/webhook
