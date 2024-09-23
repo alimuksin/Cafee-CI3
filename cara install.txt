@@ -16,4 +16,15 @@ nah seting web cafenya di menu setting dengan pembayraan tripay.
 Link aplikasi 
 localhost/namafolder_htdocs
 localhost/namafolder_htdocs/login
-localhost/namafolder_htdocs/admin/login
+
+Untuk admin & kasir
+localhost/namafolder_htdocs/admin/
+localhost/namafolder_htdocs/kasir/
+
+akun admin :
+admin@mail.com
+password
+
+Akun kasir :
+kasir@mail.com
+kasir@mail.com
