@@ -1,0 +1,19 @@
+1. Buat folder baru di htdocs
+2. Extrack file zip ke folder yang sudah dibuat
+2. buat database dengan nama cafe
+3. import database
+
+
+*Note
+Pembayaran online menggunakan tripay,
+cara menggunakannya, kunjungi halaman tripay.co.id
+daftar/login akun
+masuk ke menu  API & Integrasi, pilih simulator, 
+dihalamna simulator pilih menu merchant, pilih detail
+nah seting web cafenya di menu setting dengan pembayraan tripay.
+
+
+Link aplikasi 
+localhost/namafolder_htdocs
+localhost/namafolder_htdocs/login
+localhost/namafolder_htdocs/admin/login
